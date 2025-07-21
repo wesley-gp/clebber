@@ -1,3 +1,4 @@
+indice atual: 003
 1
 Bola
 doce comum
@@ -8,4 +9,25 @@ saltitar
 Pula
 senhoras da noite
 puta
+#
+2
+porta
+algo cortante
+corta
+perto do mar
+costa
+fede
+bosta
+tosta
+#
+3
+porta
+lugar que sai navios
+porto
+escoliose
+torto
+mulher com escoliose
+torta
+cortar
+corta
 #
