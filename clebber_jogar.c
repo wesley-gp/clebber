@@ -165,7 +165,7 @@ int main(){
         converterMinusculo(palavraCerta);
 
         printf("dica para a proxima palavra: %s\n",vetor[acertos].dica);
-        printf("faca seu palpite: ");
+        printf("faca seu palpite (a palavra nao deve ser acentuada): ");
         scanf(" %[^\n]",palavraInserida);
 
         converterMinusculo(palavraInserida);
@@ -200,7 +200,7 @@ int main(){
                 strcpy(palavraAnterior, vetor[acertos].palavra);
                 continue;
             }else {
-                    printf("Você não pode mais pular rs\n");
+                    printf("Voce nao pode mais pular rs\n");
                 }
             }
             
