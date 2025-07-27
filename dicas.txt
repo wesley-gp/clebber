@@ -1,4 +1,4 @@
-indice atual: 006
+indice atual: 005
 1
 Bola
 doce comum
@@ -42,4 +42,15 @@ fruta
 caja
 outra fruta
 caju
+#
+5
+casa
+cavar
+cava
+linguagem de programacao
+java
+fruta
+jaca
+animal
+vaca
 #
