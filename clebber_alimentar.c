@@ -52,6 +52,7 @@ int main(){
 
             char palavraAnterior[20] = "";
             fprintf(file, "%d\n", jogo);
+            printf("por favor, digite as palavras sem acentos\n");
             for(int i =0; i<=4; i++){
                 palavra p;
                 if(i!=0){
